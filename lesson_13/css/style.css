@@ -1,0 +1,75 @@
+body {
+	background: url("img/bg.png");
+	background-color: #ebf4f4;
+	box-sizing: border-box;
+	font-family: Arial, sans-serif;
+}
+.main{
+	width: 479px;
+	height: 555px;
+	background-color: #fff;
+	margin-left: 179px;
+	margin-top: 149px;
+	position: relative;
+	border: solid #cfdede 1px;
+
+}
+.create{
+	position: absolute;
+	background-color: #01b3b3;
+	margin-left: 45px;
+	width: 223px;
+	height: 38px;
+	margin-top: -5px;
+	box-shadow: 1px 1px 2px gray;
+}
+.text{
+	margin-top: 8px;
+	font-size: 18px;
+	color: white;
+	font-weight: 900;
+	text-transform: uppercase;
+	text-align: center;
+}
+.form-control{
+	display: block;
+	width: 382px;
+	height: 41px;
+	border: 2px solid #cfdede;
+	background-color: #ebf4f4;
+	font-size: 18px;
+}
+.form-text strong {
+	color: #57c3c3;
+	font-size: 16px;
+	
+}
+.form-text{
+	font-size: 18px;
+	font-weight: 900;
+	margin-top: 23px;
+	margin-bottom: 20px;
+
+}
+.forms{
+	margin-left: 44px;
+	margin-top: 80px;
+}
+.btn {
+	text-align: center;
+	margin-top: 50px;
+}
+.btn-form {
+	width: 388px;
+	height: 69px;
+	border-radius: 5px;
+	background-color: #01bebe;
+	border: 0px;
+	text-align: center;
+	color: white;
+	font-weight: 900;
+	font-size: 23px;
+	text-transform: uppercase;
+}
+
+
